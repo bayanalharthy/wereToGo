@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">were to go</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="confirm_password">confirm_password</string>
+    <string name="username">username</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="comment">comment</string>
+    <string name="fllowers">fllowers</string>
+    <string name="name">name</string>
+
+</resources>
